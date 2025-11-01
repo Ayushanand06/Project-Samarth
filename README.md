@@ -17,4 +17,5 @@ The model fetches relevant data from **official APIs** and formats the response 
 
 ---
 
-## 🧠 Architecture
+
+
